@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bintangapp</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
   <build>
     <plugins>
@@ -23,11 +23,11 @@
 </dependencies>
 
 <distributionManagement>
-    <snapshotRepository>
+    <Repository>
         <id>github</id>
         <name>GitHub Packages</name>
         <url>https://maven.pkg.github.com/bintangapp/103022300058_Bintang_Anugrah_Pratama_Praktik_MKEPL</url>
-    </snapshotRepository>
+    </Repository>
 </distributionManagement>
 
   <properties>
